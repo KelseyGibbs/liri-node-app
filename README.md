@@ -14,5 +14,5 @@
 - OMDb API (via request npm module)
 - Moment.js
 
-![Image of Yaktocat](/Screen Shot 2019-04-16 at 10.16.13 AM.png)
-![Image of Yaktocat](/Screen Shot 2019-04-16 at 10.16.42 AM.png)
+![Image of Yaktocat](/assets/images/image1.png)
+![Image of Yaktocat](/assets/images/image2.png)
