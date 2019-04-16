@@ -1,13 +1,14 @@
 {
   "name": "liri-node-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Requirements - Make a Node.js app that depends on user input from the command line - Integrate Bands in Town, Spotify, and OMDb APIs via the appropriate NPM modules - Use axios to make asynchronous - Read commands and queries from file",
   "main": "index.js",
   "dependencies": {
     "axios": "^0.18.0",
     "dotenv": "^7.0.0",
     "moment": "^2.24.0",
     "node-spotify-api": "^1.0.7",
+    "omdb-client": "^2.0.0",
     "request": "^2.88.0"
   },
   "devDependencies": {},
